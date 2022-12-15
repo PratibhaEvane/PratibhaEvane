@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PratibhaEvane
+- 👋 Hi, I’m @Pratibha Evane
 - 👀 I’m interested in developing websites.
 - 🌱 I’m currently learning Angular.
 - 💞️ I’m looking to collaborate on Angular Projects.
