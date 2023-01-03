@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pratibha Evane
 - 👀 I’m interested in developing websites.
-- Skills – HTML, CSS, Bootstrap, JavaScript, VS Code, Postman API.
+- **Skills : HTML, CSS, Bootstrap, JavaScript, VS Code, Postman API, Nx Framework.
 - 🌱 I’m currently learning Angular.
 - 💞️ I’m looking to collaborate on Angular Projects.
 - 📫 How to reach me - by contacting via mail misspratibhaa@gmail.com
