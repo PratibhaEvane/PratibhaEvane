@@ -3,7 +3,7 @@
 - **Skills : HTML, CSS, Bootstrap, JavaScript, VS Code, Postman API, Nx Framework.
 - 🌱 I’m currently learning Angular.
 - 💞️ I’m looking to collaborate on Angular Projects.
-- 📫 How to reach me - by contacting via mail misspratibhaa@gmail.com
+- 📫 How to reach me - by contacting via mail pratibhaevane18@gmail.com
 
 <!---
 PratibhaEvane/PratibhaEvane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
